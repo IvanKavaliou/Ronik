@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560884542306",
+    "firebase_url": "https://ronik-f783e.firebaseio.com",
+    "project_id": "ronik-f783e",
+    "storage_bucket": "ronik-f783e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560884542306:android:48cc7cc489fda45d",
+        "android_client_info": {
+          "package_name": "com.example.ivank.ronik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560884542306-vcnt0f7js5t4p8bg0eq21hgi9rmjieku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivank.ronik",
+            "certificate_hash": "090eb12b31676ca6e72208bcd7fc03a39d4c0f4e"
+          }
+        },
+        {
+          "client_id": "560884542306-romoeu4vamtjeju0tbeuhqher601qutp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBrzGMEt6x_I5NZ9yCPxc7eADjlAhwDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560884542306-romoeu4vamtjeju0tbeuhqher601qutp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
